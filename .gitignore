@@ -16,10 +16,6 @@ env/
 data/raw/*
 data/cleaned/*
 
-# Keep folders
-!data/raw/.gitkeep
-!data/cleaned/.gitkeep
-
 # Jupyter Notebook
 .ipynb_checkpoints/
 
